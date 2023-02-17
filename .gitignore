@@ -1,0 +1,11 @@
+# Ignore Visual Basic project files
+*.vbproj
+*.vbproj.user
+*.sln
+*.suo
+
+# Ignore compiled files
+bin/
+obj/
+Debug/
+Release/
